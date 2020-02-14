@@ -79,3 +79,15 @@ func get_input():
 #	# Update game logic here.
 #	pass
 
+
+
+func _on_GhostTimer_timeout():
+	if state == RUN || state == JUMP:
+		# First make a copy of the ghost object
+		var this_ghost = preload("res://Scenes/ghost.tscn").instance();
+		# give the ghost a parent
+		get_parent().add_child(this_ghost);
+		this_ghost.position = position;
+		this_ghost.texture = $AnimatedSprite.frames.get_frame($AnimatedSprite.animation, $AnimatedSprite.frame);
+		this_ghost.flip_h = $AnimatedSprite.flip_h;
+	

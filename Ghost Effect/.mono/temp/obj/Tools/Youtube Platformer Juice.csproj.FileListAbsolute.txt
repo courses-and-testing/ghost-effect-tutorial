@@ -1,0 +1,6 @@
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/bin/Tools/Youtube Platformer Juice.dll
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/bin/Tools/Youtube Platformer Juice.pdb
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/obj/Tools/Youtube Platformer Juice.csprojAssemblyReference.cache
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/obj/Tools/Youtube Platformer Juice.csproj.CoreCompileInputs.cache
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/obj/Tools/Youtube Platformer Juice.dll
+/home/ergonzal/CodeCafe/Platformer-Juice/Ghost Effect/.mono/temp/obj/Tools/Youtube Platformer Juice.pdb
